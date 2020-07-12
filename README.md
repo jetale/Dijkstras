@@ -1,6 +1,6 @@
 # Eager Dijkstra's Algorithm Tool in Python3
 
-This is a implementation of Eager Dijkstra's algorithm in Python3. I built it in a day so still needs polishing
+This is an implementation of Eager Dijkstra's algorithm in Python3. I built it in a day so still needs polishing
 
 
 Dijkstra's algorithm is used to find shortest path from a given starting point to the destination. It has many applications from Google map navigation, Uber rider assignment to functioning of the internet. Open shortest path first and IS-IS algorithms are based on Dijkstra's algorithm
