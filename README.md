@@ -18,8 +18,8 @@ The only requirement is `pandas` which can be installed by ` pip install pandas`
 
 
 ### I found these videos really helpful in implementation -
-. [Dijkstra's Algorithm - Computerphile](https://www.youtube.com/watch?v=GazC3A4OQTE)
-. [Dijkstra's Shortest Path Algorithm | Graph Theory](https://www.youtube.com/watch?v=pSqmAO-m7Lk)
+- [Dijkstra's Algorithm - Computerphile](https://www.youtube.com/watch?v=GazC3A4OQTE)
+- [Dijkstra's Shortest Path Algorithm | Graph Theory](https://www.youtube.com/watch?v=pSqmAO-m7Lk)
 
 
 ### TODO -
