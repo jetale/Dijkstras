@@ -1,4 +1,4 @@
-# Eager Dijkstra's Algorithm Tool in Python3
++ # Eager Dijkstra's Algorithm Tool in Python3
 
 This is a implementation of Eager Dijkstra's algorithm in Python3. I built it in a day so still needs polishing
 
