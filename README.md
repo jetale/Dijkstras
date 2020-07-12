@@ -6,11 +6,11 @@ This is a implementation of Eager Dijkstra's algorithm in Python3. I built it in
 Dijkstra's algorithm is used to find shortest path from a given starting point to the destination. It has many applications from Google map navigation, Uber rider assignment to functioning of the internet. Open shortest path first and IS-IS algorithms are based on Dijkstra's algorithm
 
 
-** Requirements - **
+**Requirements -**
 The only requirement is `pandas` which can be installed by ` pip install pandas`
 
 
-** Flow - **
+**Flow -**
 - Reads nodes and edges from `map.txt`. The format is as follows ---- {node1 node2 distance)
 - Converts the dataframe in dictionary for faster processing
 - Passes the dictionary to search() function
@@ -23,7 +23,7 @@ The only requirement is `pandas` which can be installed by ` pip install pandas`
 
 
 ### TODO -
-[] Make it general purpose
-[] Accept user input in an efficient manner
-[] Speed optimizations
-[] Comment the code 
+- [ ] Make it general purpose
+- [ ] Accept user input in an efficient manner
+- [ ] Speed optimizations
+- [ ] Comment the code 
