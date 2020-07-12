@@ -7,11 +7,19 @@ Dijkstra's algorithm is used to find shortest path from a given starting point t
 
 
 **Requirements -**
-The only requirement is `pandas` which can be installed by ` pip install pandas`
+The only requirement is `pandas` which can be installed by `pip install pandas`
+
+
+**Installation -** 
+Just clone the repo and place text file with node and edge info in the same directory. 
+
+
+**Usage -**
+To be added
 
 
 **Flow -**
-- Reads nodes and edges from `map.txt`. The format is as follows ---- {node1 node2 distance)
+- Reads nodes and edges from `map.txt`. The format is as follows ---- {node1 node2 distance}
 - Converts the dataframe in dictionary for faster processing
 - Passes the dictionary to search() function
 - search() function returns list with shortest path and the distance on that path
