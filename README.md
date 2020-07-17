@@ -32,6 +32,6 @@ To be added
 
 ### TODO -
 - [ ] Make it general purpose
-- [ ] Accept user input in an efficient manner
+- [x] Accept user input in an efficient manner
 - [ ] Speed optimizations
-- [ ] Comment the code 
+- [x] Comment the code 
